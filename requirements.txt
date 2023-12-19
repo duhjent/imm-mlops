@@ -1,3 +1,8 @@
 fastapi>=0.105.0,<0.106.0
 pydantic>=2.5.0,<2.6.0
 uvicorn>=0.24.0,<0.25.0
+black
+transformers>=4.36.0,<4.37.0
+stable_baselines3>=2.2.0,<2.3.0
+huggingface_sb3==3.0.0
+gymnasium>=0.29.0,<0.30.0
