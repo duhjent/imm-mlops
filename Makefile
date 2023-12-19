@@ -8,4 +8,4 @@ install:
 	pip install -r requirements.txt
 
 lint:
-	black --check
+	black --check .
